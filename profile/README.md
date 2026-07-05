@@ -24,7 +24,7 @@ https://quantinfra.gitbook.io/quantinfra-docs
 
 The SDK contains the public API used to develop trading strategies, indicators, and integrations. It is intended to remain stable and can be freely used in both open-source and commercial projects. The QuantInfra SDK is licensed under the Apache 2.0 license. You can use it to develop proprietary trading strategies and commercial applications without any obligation to publish your source code. Strategies built using the SDK remain your intellectual property.
 
-Repository: https://github.com/QuantInfra/quantinfra-sdk
+Repository: https://github.com/quantinfrasolutions/quantinfra-sdk
 
 ---
 
@@ -34,7 +34,7 @@ Repository: https://github.com/QuantInfra/quantinfra-sdk
 A collection of commonly used technical indicators implemented on top of the QuantInfra SDK.
 The indicators are licensed under the Apache 2.0 license. You can use them to develop proprietary trading strategies and commercial applications without any obligation to publish your source code. Strategies built using the SDK remain your intellectual property.
 
-Repository: https://github.com/QuantInfra/quantinfra-standard-indicators
+Repository: https://github.com/quantinfrasolutions/quantinfra-standard-indicators
 
 ---
 
