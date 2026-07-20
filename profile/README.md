@@ -7,9 +7,10 @@ The platform provides a unified programming model across the entire strategy lif
 - High-performance event-driven backtesting
 - Production-ready live trading
 - Unified broker and exchange connectivity
+- Real-time market data subscriptions and persistence
 - Extensible architecture for custom strategies, indicators, analytics, optimization pipelines, and infrastructure
 
-QuantInfra is designed for individual quantitative traders, proprietary trading firms, hedge funds, and fintech companies who want institutional-grade infrastructure without building everything from scratch.
+QuantInfra is designed for individual quantitative traders, proprietary trading firms, hedge funds, and fintech companies that want institutional-grade infrastructure without having to build everything from scratch.
 
 ## Documentation
 
@@ -22,7 +23,7 @@ https://quantinfra.gitbook.io/quantinfra-docs
 ### QuantInfra SDK
 **License:** Apache 2.0
 
-The SDK contains the public API used to develop trading strategies, indicators, and integrations. It is intended to remain stable and can be freely used in both open-source and commercial projects. The QuantInfra SDK is licensed under the Apache 2.0 license. You can use it to develop proprietary trading strategies and commercial applications without any obligation to publish your source code. Strategies built using the SDK remain your intellectual property.
+The SDK provides the public API for developing trading strategies, indicators, and integrations. It is intended to remain stable and can be freely used in both open-source and commercial projects. The QuantInfra SDK is licensed under the Apache 2.0 license. You can use it to develop proprietary trading strategies and commercial applications without any obligation to publish your source code. Strategies built using the SDK remain your intellectual property.
 
 Repository: https://github.com/quantinfrasolutions/quantinfra-sdk
 
@@ -39,10 +40,10 @@ Repository: https://github.com/quantinfrasolutions/quantinfra-standard-indicator
 ---
 
 ### QuantInfra Core
-**License:** Business Source License (BSL)
+**License:** Proprietary source-available license
 
 The core platform contains the trading engine, backtesting framework, live execution infrastructure, data management, and platform services.
 
-The BSL allows source code access and modification while protecting the commercial platform from being redistributed as a competing product. Commercial use for operating trading strategies in test and production environments is permitted under the terms of the license.
+The license allows access to and modification of the source code while preventing the commercial platform from being redistributed as a competing product. Commercial use for operating trading strategies in test and production environments is permitted under the terms of the license.
 
 Repository: https://github.com/quantinfrasolutions/quantinfra-core
